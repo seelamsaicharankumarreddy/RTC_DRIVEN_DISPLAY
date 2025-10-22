@@ -13,11 +13,6 @@ This project demonstrates a combination of **secure access, RTC-based automation
 
 ---
 
-## 🖼️ Block Diagram    
-![Block Diagram](block_diagram.png)
- 
----
-
 ## 🎯 Features  
 - ⏰ **RTC-based Scheduling** – Messages appear automatically at set times.  
 - 🔑 **Admin Mode** – Secure access using external switch + password.  
